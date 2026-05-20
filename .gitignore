@@ -3,6 +3,7 @@
 bt_logs
 analysis.ipynb
 bts_fx.py
-bt_tickers.feather
 stocks_by_volume*
 __pycache__
+instruments.csv
+rejected.pkl
